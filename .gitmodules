@@ -1,0 +1,9 @@
+[submodule "src/FAST_LIO"]
+	path = src/FAST_LIO
+	url = https://github.com/Anon-Toky0/FAST_LIO.git
+[submodule "src/livox_ros_driver2"]
+	path = src/livox_ros_driver2
+	url = https://github.com/Anon-Toky0/livox_ros_driver2.git
+[submodule "src/livox_laser_simulation"]
+	path = src/livox_laser_simulation
+	url = https://github.com/Anon-Toky0/livox_laser_simulation.git
